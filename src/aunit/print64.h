@@ -40,8 +40,6 @@ SOFTWARE.
  * processors.
  */
 
-class Print;
-
 namespace aunit {
 namespace internal {
 

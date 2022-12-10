@@ -120,7 +120,6 @@ inlining them because they are almost always used through a function pointer.
 #include <stdint.h>
 #include <string.h>
 #include <math.h> // fabs()
-#include <WString.h>
 #include "Flash.h"
 #include "Compare.h"
 

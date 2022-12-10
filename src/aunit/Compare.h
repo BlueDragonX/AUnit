@@ -71,9 +71,7 @@ SOFTWARE.
 #define AUNIT_COMPARE_H
 
 #include <stddef.h> // size_t
-
-class String;
-class __FlashStringHelper;
+#include "String.h"
 
 namespace aunit {
 namespace internal {

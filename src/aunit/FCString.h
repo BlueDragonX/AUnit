@@ -26,9 +26,7 @@ SOFTWARE.
 #define AUNIT_FSTRING_H
 
 #include <stddef.h> // size_t
-
-class Print;
-class __FlashStringHelper;
+#include "String.h"
 
 namespace aunit {
 namespace internal {

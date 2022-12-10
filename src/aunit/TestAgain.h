@@ -29,8 +29,6 @@ SOFTWARE.
 #include "FCString.h"
 #include "MetaAssertion.h"
 
-class __FlashStringHelper;
-
 namespace aunit {
 
 /** Similar to TestOnce but performs the user-defined test multiple times. */

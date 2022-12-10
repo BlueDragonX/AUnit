@@ -68,7 +68,7 @@ SOFTWARE.
 #ifndef AUNIT_FLASH_H
 #define AUNIT_FLASH_H
 
-class __FlashStringHelper;
+#include "String.h"
 
 /**
  * The FPSTR() macro is defined on ESP8266 and ESP32, but not on other

@@ -26,10 +26,8 @@ SOFTWARE.
 #define AUNIT_ASSERTION_H
 
 #include "Flash.h"
+#include "String.h"
 #include "Test.h"
-
-class __FlashStringHelper;
-class String;
 
 namespace aunit {
 
