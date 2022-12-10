@@ -25,7 +25,7 @@ SOFTWARE.
 #ifndef AUNIT_PRINTER_H
 #define AUNIT_PRINTER_H
 
-class Print;
+#include <Print.h>
 
 namespace aunit {
 

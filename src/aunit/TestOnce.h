@@ -32,8 +32,6 @@ SOFTWARE.
 #include "FCString.h"
 #include "MetaAssertion.h"
 
-class __FlashStringHelper;
-
 namespace aunit {
 
 /** Similar to TestAgain but performs user-defined test only once. */

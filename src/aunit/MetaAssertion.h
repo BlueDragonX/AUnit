@@ -29,9 +29,8 @@ SOFTWARE.
 #define AUNIT_META_ASSERTION_H
 
 #include "Printer.h"
+#include "String.h"
 #include "Assertion.h"
-
-class __FlashStringHelper;
 
 namespace aunit {
 
